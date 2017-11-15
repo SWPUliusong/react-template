@@ -1,7 +1,7 @@
 {
-  "name": "tcar-hardware-version-webapp",
+  "name": "react-template",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A React template",
   "author": "liusong <swpuliusong@foxmail.com>",
   "private": true,
   "scripts": {
