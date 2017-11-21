@@ -23,15 +23,11 @@
     "test": {
       "presets": [
         "env",
+        "react",
         "stage-2"
       ],
       "plugins": [
         "istanbul"
-      ]
-    },
-    "development": {
-      "plugins": [
-        "react-hot-loader/babel"
       ]
     }
   }

@@ -9,8 +9,7 @@ function resolve(dir) {
 module.exports = {
   entry: {
     app: [
-      "babel-polyfill",
-      "react-hot-loader/patch",
+      'babel-polyfill',
       './src/main.js'
     ]
   },
